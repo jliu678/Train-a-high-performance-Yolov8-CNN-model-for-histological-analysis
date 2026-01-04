@@ -1,4 +1,5 @@
-# High-Performance Medical Object Detection via YOLOv8 Trained by Data Augmentation and Active Learning
+# High-Performance Medical Object Detection via a YOLOv8-based CNN Model Engineered by Data Augmentation and Active Learning
+
 I engineered a high-performance histological analysis tool using YOLOv8, optimizing model accuracy through data augmentation and implementing Active Learning to combat overfitting and streamline the labeling process. Briefly,
 - I used a sliding window approach for data augmentation to handle high-resolution images or small objects
 - Initially trained YOLOV8 model shows overfitting (high variance): high performance on training data but low performance on testing data
